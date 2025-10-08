@@ -1,5 +1,6 @@
-def hola(nombre):
+def hola(nombre, apellido="feliz"):
     print("hola mundo")
-    print(f"Bienvenido {nombre}") 
+    print(f"Bienvenido {nombre} {apellido}") 
     
-hola("cat")
+hola("cat", "miua")
+hola("miuas")

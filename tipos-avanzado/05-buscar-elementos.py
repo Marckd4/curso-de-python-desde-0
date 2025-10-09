@@ -1,0 +1,1 @@
+mascotas = ["gato", "perro", "canario", "leon"]
